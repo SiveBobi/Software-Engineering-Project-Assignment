@@ -1,3 +1,9 @@
+"""
+Tic-Tac-Toe Command Line Game
+Author: Sive Bobi
+Postgraduate Diploma in Software Engineering
+Year: 2026
+"""
 # Tic-Tac-Toe Game (Command Line Version)
 
 def print_board(board):
